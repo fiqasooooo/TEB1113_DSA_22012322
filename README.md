@@ -12,3 +12,4 @@
 | 13/06/2025  | 3   | - [Lab 3 Singly Linked List](./22012322_Afiqah_L3/singly.cpp) <br> - [Lab 3 Doubly Linked List](./22012322_Afiqah_L3/doubly.cpp)                 |
 | 20/06/2025  | 4   | - [Lab 4 Singly Circular Linked List](./22012322_Afiqah_L4/circular.cpp) <br> - [Lab 4 Doubly Circular Linked List](./22012322_Afiqah_L4/doublycircular.cpp)|
 | 26/06/2025  | 5   | - [Lab 5 Stack](#)                                                            |
+| 04/07/2025  | 6   | - [Lab 6 ](#)                                                            |
