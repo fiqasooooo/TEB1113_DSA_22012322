@@ -7,7 +7,7 @@
 
 | Date       | Lab | Tasks                                                                 |
 |------------|-----|------------------------------------------------------------------------|
-| 30/05/2025  | 1   | - [Lab 1](#22012322_Afiqah_L1/22012322_Afiqah_L1.cpp)                   |
+| 30/05/2025  | 1   | - [Lab 1](./22012322_Afiqah_L1/22012322_Afiqah_L1.cpp)                   |
 | 06/06/2025  | 2   | - [Lab 2 Easy](#) <br> - [Lab 2 Medium](#) <br> - [Lab 2 Hard](#)           |
 | 13/06/2025  | 3   | - [Singly Linked List](#) <br> - [Doubly Linked List](#)                 |
 | 20/06/2025  | 4   | - [Singly Circular Linked List](#) <br> - [Doubly Circular Linked List](#)|
